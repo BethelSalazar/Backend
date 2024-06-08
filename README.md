@@ -68,7 +68,8 @@ src/
 ├── App.jsx
 └── main.jsx
 ```
-![alt text](image-7.png)
+![image](https://github.com/BethelSalazar/Backend/assets/162261372/a8e68cff-5206-42fc-9bca-a62feabbffc5)
+
 # Uso del Proyecto
 Este proyecto proporciona una plataforma de tutoría en línea con las siguientes características:
 
